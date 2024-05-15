@@ -1,15 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shehriar Ali Khan</title>
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Shehriar Ali Khan</h1>
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehriar&label=Profile%20views&color=0e75b6&style=flat" alt="shehriar" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/shehriaralikhan](https://www.kaggle.com/shehriaralikhan)
+- 👨‍💻 All of my projects are available at <a href="https://www.kaggle.com/shehriaralikhan">https://www.kaggle.com/shehriaralikhan</a>
 
 - 💬 Ask me about **AI/ML**
 
-- 📫 How to reach me **https://www.linkedin.com/in/shehriar-ali-khan-82315a25a/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/shehriar-ali-khan-82315a25a/">https://www.linkedin.com/in/shehriar-ali-khan-82315a25a/</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shehriar-ali-khan-82315a25a/overlay/1713194989375/single-media-viewer/?profileId=ACoAAD-9CRsBJgqAv1cqmQ-GMHCE01vp8lpnuaY](https://www.linkedin.com/in/shehriar-ali-khan-82315a25a/overlay/1713194989375/single-media-viewer/?profileId=ACoAAD-9CRsBJgqAv1cqmQ-GMHCE01vp8lpnuaY)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/shehriar-ali-khan-82315a25a/overlay/1713194989375/single-media-viewer/?profileId=ACoAAD-9CRsBJgqAv1cqmQ-GMHCE01vp8lpnuaY">https://www.linkedin.com/in/shehriar-ali-khan-82315a25a/overlay/1713194989375/single-media-viewer/?profileId=ACoAAD-9CRsBJgqAv1cqmQ-GMHCE01vp8lpnuaY</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shehriar&show_icons=true&locale=en" alt="shehriar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehriar&" alt="shehriar" /></p>
+
+</body>
+</html>
