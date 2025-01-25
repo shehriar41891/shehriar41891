@@ -9,9 +9,7 @@
 <h1 align="center">Hi 👋, I'm Shehriar Ali Khan</h1>
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehriar&label=Profile%20views&color=0e75b6&style=flat" alt="shehriar" /> </p>
-
-- 👨‍💻 All of my projects are available at <a href="https://www.kaggle.com/shehriaralikhan">https://www.kaggle.com/shehriaralikhan</a>
+- 👨‍💻 All of my data mining and visualization projects are available at <a href="https://www.kaggle.com/shehriaralikhan">https://www.kaggle.com/shehriaralikhan</a>
 
 - 💬 Ask me about **AI/ML**
 
